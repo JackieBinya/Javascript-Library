@@ -6,3 +6,4 @@ I  created this repo to document all things Javascript. Its purpose it to be a r
 3. [Setting Up Babel in NodeJS](./)
 4. [ESLint](./)
 5. [Unit testing using Jest](./)
+6. [Classical Algorithms](./)

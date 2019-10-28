@@ -2,3 +2,6 @@
 I  created this repo to document my all things Javascript.
 
 [Javascript Dictionary](./Dictionary.md)
+[Git and Github](./)
+[Setting Up Babel in Node]S./)
+[ESLint](./)

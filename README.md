@@ -1,2 +1,4 @@
 # Javascript-Library
-I  created this repo to define common keywords  and terms in Javascript
+I  created this repo to document my all things Javascript.
+
+[Javascript Dictionary](./dictionary.md)
